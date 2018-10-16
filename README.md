@@ -1,4 +1,4 @@
-# CRISPRpred_plus_plus
+# CRISPRpred-plus-plus
 Source code of CRISPRpred++;  A Novel Tool to Predict On-target Efficiency Reducing Off-target Effects of sgRNA in CRISPR/Cas9 System.
 
 After extraction of CRISPRpred++.zip, a folder named CRISPRpred++ will be created. This folder contains another 3 folders:
